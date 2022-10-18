@@ -1,11 +1,8 @@
 {
-  "name": "adrianobnu/parvus-html-table",
-  "description": "Create HTML tables for Datables with Bootstrap 3.",
-  "keywords": ["jquery", "datables", "table"],
-  "license": "MIT",
+  "name": "tgw-sistemas/parvus-html-table",
   "require": {
     "php" : ">=5.3",
-    "adrianobnu/parvus-framework": "dev-master"
+    "tgw-sistemas/parvus-framework": "dev-master"
   },
   "autoload": {
     "psr-0": {
